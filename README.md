@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fauferis;
 - 👀 I’m IT student;
-- 🌱 I’m currently learning web development;
+- 🌱 I’m currently learning web development, computer networking.
 - 📫 How to reach me @fauferis.
 
 <!---
